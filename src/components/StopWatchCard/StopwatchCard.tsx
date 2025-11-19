@@ -10,7 +10,7 @@ interface Props {
   onDelete: () => void;
 }
 
-export default function StopwatchCard({ id, onDelete }: Props) {
+export default function StopwatchCard({onDelete }: Props) {
   const { time, running, start, pause, reset } = useStopwatch(); // using this logic for each stopwatch card
 
   return (
