@@ -1,4 +1,4 @@
-# Stop Watch Taskkkkkkkkkkkkk
+# Stop Watch Task
 
 ## Explanation
    - Material UI: for styling
