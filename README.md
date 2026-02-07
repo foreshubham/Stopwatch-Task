@@ -1,4 +1,4 @@
-# Stop Watch Taskk
+# Stop Watch Task
 ## Explanation
    - Material UI: for styling
    - TypeScript
